@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular'., 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    background-color: green
+}
+
+header {
+    background-color: black #33ee44;
+    height: 600px;
+    clip-path: polygon(0 0, 100%, 0%, 100%, 90%, 0%, 100%;
+    );
+}
+
+.container {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+}
+
+.images.img {
+    background-color: yellow;
+    width: 600px;
+    height: 400px;
+}
+
+h1 {
+    background-color: greenyellow;
+    color: purple
+}
+
+h3 .hotel.jfiif {
+    height: 500px color: blue;
+}
+
+td {
+    background-position: yellow;
+}
+
+.download.jfiif {
+    background-color: white black;
+}
+
+footer {
+    display: block;
+}
